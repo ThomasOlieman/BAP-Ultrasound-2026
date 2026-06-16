@@ -22,7 +22,7 @@ FPGA Code/
 README.md
 ```
 
- ## Authors
+ ## Authors 
  
 Thomas Olieman and Jurre Steenwijk — Ultrasound subgroup.
 Supervisor: dr. ir. M. A. P. Pertijs. Daily supervisor: Msc I. Bellouki.
